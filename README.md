@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Alen Eftimov
 
+![](https://visitor-badge.laobi.icu/badge?page_id=Alen-Eftimov.Alen-Eftimov)
 
 ## 🧰 Languages and Tools:
 <p align="center">
