@@ -31,10 +31,10 @@
 <a href="https://sass-lang.com/" title="Sass" rel="nofollow">
   <img src="https://github.com/tomchen/stack-icons/raw/master/logos/sass.svg" alt="Sass" width="40px" height="40px" style="max-width:100%;">
 </a>
-<a href="/" title="Angular" rel="nofollow">
+<a href="https://angular.io" title="Angular" rel="nofollow">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" height="40" style="vertical-align:top; margin:4px">
 </a>
-<a href="/" title="Vue" rel="nofollow">
+<a href="https://vuejs.org" title="Vue" rel="nofollow">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" height="40" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code" rel="nofollow">
@@ -52,7 +52,7 @@
 <a href="https://www.mongodb.org/" title="MongoDB" rel="nofollow">
   <img src="https://github.com/tomchen/stack-icons/raw/master/logos/mongodb-icon.svg" alt="MongoDB" width="40px" height="40px" style="max-width:100%;">
 </a>
-<a href="/" title="Mongoose" rel="nofollow">
+<a href="https://mongoosejs.com" title="Mongoose" rel="nofollow">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="mongoose" height="40" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://dev.mysql.com/" title="MySQL" rel="nofollow">
