@@ -22,7 +22,7 @@
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/express.svg" alt="Express" width="40px" height="40px" style="max-width:100%;">
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/mongodb-icon.svg" alt="MongoDB" width="40px" height="40px" style="max-width:100%;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="mongoose" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/tomchen/stack-icons/raw/master/logos/mongodb-icon.svg" alt="MongoDB" width="40px" height="40px" style="max-width:100%;">
+<img src="https://github.com/tomchen/stack-icons/raw/master/logos/mysql.svg" alt="MySQL" width="40px" height="40px" style="max-width:100%;">
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/npm.svg" alt="NPM" width="40px" height="40px" style="max-width:100%;">
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/babel.svg" alt="Babel" width="40px" height="40px" style="max-width:100%;">
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/webpack.svg" alt="webpack" width="40px" height="40px" style="max-width:100%;">
