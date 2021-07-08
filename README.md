@@ -16,7 +16,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/express.svg" alt="Express" width="40px" height="40px" style="max-width:100%;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" height="40" style="vertical-align:top; margin:4px">
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jquery" height="40" style="vertical-align:top; margin:4px">](url)
+//<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jquery" height="40" style="vertical-align:top; margin:4px">//
+<img src="https://github.com/tomchen/stack-icons/raw/master/logos/jquery-icon.svg" alt="jQuery" width="40px" height="40px" style="max-width:100%;">
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/express.svg" alt="Express" width="40px" height="40px" style="max-width:100%;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="mongoose" height="40" style="vertical-align:top; margin:4px">
